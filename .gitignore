@@ -1,0 +1,16 @@
+# Obsidian specific files that shouldn't be version controlled
+.obsidian/workspace*
+.obsidian/graph.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*~
+
+# Temporary files
+.tmp/
